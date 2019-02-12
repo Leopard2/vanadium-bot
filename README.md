@@ -1,2 +1,4 @@
 # vanadium-bot
-Official VDM Bor
+Official VDM Bot system
+
+ 
